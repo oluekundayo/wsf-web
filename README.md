@@ -4,21 +4,8 @@
 
 ![Product Gif](https://media.giphy.com/media/5UA7WEil3E4T7hRDHe/giphy.gif)
 
-WSF Portal Dashboard content managements systems for.
+WSF Portal Dashboard content managements systems.
 
-
-#### Special thanks
-To create this dashboard, we used already existing tools from awesome developers. We want to thank them for creating cool stuff and support them in the future:
-[Angular](https://angular.io/) for the core structure
-[Robert McIntosh](https://github.com/mouse0270) for the notification system
-[Chartist](https://gionkunz.github.io/chartist-js/) for the wonderful charts
-[Zhixin Wen](https://github.com/wenzhixin) for the [DataTables](http://bootstrap-table.wenzhixin.net.cn/documentation/)
-[Tristan Edwards](https://twitter.com/t4t5) for the [Sweet Alert](https://limonte.github.io/sweetalert2/)
-[Eonasdan](https://github.com/Eonasdan) for the [DateTimPicker](https://eonasdan.github.io/bootstrap-datetimepicker/)
-Kirill Lebedev for [jVector Maps](http://jvectormap.com/)
-[Vincent Gabriel](https://twitter.com/gabrielva) for the [Bootstrap Wizard](http://vinceg.github.io/twitter-bootstrap-wizard/)
-
-We hope you will go great stuff with this tool. We look forward to hearing your thoughts, suggestions and feedback!
 
 ## Table of Contents
 
