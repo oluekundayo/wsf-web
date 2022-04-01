@@ -4,13 +4,7 @@
 
 ![Product Gif](https://media.giphy.com/media/5UA7WEil3E4T7hRDHe/giphy.gif)
 
-Light Bootstrap Dashboard PRO Angular is a Bootstrap Admin Theme designed to look simple and beautiful. Forget about boring dashboards and grab yourself a copy to kickstart new project! It is the easiest way to save time and money for your development.
-What it is
-Light Bootstrap Dashboard PRO Angular is built over Bootstrap and Angular and it comes integrated with a large number of third-party apps redesigned to fit in with the rest of the elements.
-
-If you want to see the basic version of the dashboard, please check out this link. You can download it for free and play around to see if you like the look and feel of it.
-
-This product came as a result of users asking for more functionality than the basic version. We developed it based your feedback and apps you are building. It is very powerful tool, that will allow you to build products ranging to admin panels to content managements systems.
+WSF Portal Dashboard content managements systems for.
 
 
 #### Special thanks
