@@ -23,10 +23,8 @@ WSF Portal Dashboard content managements systems.
 
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro-react)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard-pro)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro-angular2)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](http://wsfportal.lfcww.org/)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](http://wsfportal.lfcww.org/)
 
 
 
